@@ -1,1 +1,1 @@
-# SRD
+Designed and implemented a relational database to support a children's transportation service. Project developed in the first semester of the master's degree in Data Science and Advanced Analytics @ NOVA IMS, in the course of Storing and Retrieving Data. Awarded a grade of 19.5/20.
